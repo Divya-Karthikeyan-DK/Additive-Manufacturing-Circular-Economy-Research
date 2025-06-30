@@ -1,3 +1,13 @@
+## 🔗 Quick Navigation
+
+- [📊 Publication Trends](#-publication-trends-analysis)
+- [👥 Key Contributors](#-key-contributors-analysis)
+- [🌍 Global Distribution](#-geographical-distribution)
+- [🎯 Thematic Analysis](#-thematic-analysis)
+- [📋 Methodology](#-methodology-validation)
+
+---
+
 ## 📈 Key Findings Overview
 
 ![Main Information Overview](Resources/1.png)
@@ -195,16 +205,6 @@ This bibliometric analysis provides:
 - **Strategic insights** for future research directions
 - **Evidence-based mapping** of key contributors and themes
 - **Methodological framework** for similar studies
-
----
-
-## 🔗 Quick Navigation
-
-- [📊 Publication Trends](#-publication-trends-analysis)
-- [👥 Key Contributors](#-key-contributors-analysis)
-- [🌍 Global Distribution](#-geographical-distribution)
-- [🎯 Thematic Analysis](#-thematic-analysis)
-- [📋 Methodology](#-methodology-validation)
 
 ---
 
