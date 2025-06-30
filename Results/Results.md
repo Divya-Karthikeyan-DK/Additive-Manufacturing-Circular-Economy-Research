@@ -114,11 +114,11 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 
 ### Keyword Network Visualization
 
-![VOSviewer Keyword Network](Resources/9.png)
+![VOSviewer Keyword Network](Resources/8.png)
 
 *Figure 5: Keyword network visualization using VOSviewer*
 
-![Biblioshiny Keyword Network](Resources/10.png)
+![Biblioshiny Keyword Network](Resources/9.png)
 
 *Figure 6: Keyword Co-occurrence network visualization using Biblioshiny*
 
@@ -144,7 +144,7 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 
 ### Advanced Thematic Mapping
 
-![Keyword Co-occurrence Overlay](Resources/11.png)
+![Keyword Co-occurrence Overlay](Resources/10.png)
 
 *Figure 7: Keyword Co-occurrence Overlay Visualization*
 
