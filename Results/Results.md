@@ -87,11 +87,11 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 
 ### Global Research Landscape
 
-![World Map Distribution](Resources/7.png)
+![World Map Distribution](Resources/6.png)
 
 *Figure 4: World Map Showing Geographical Distribution of Publications*
 
-![Geographical Distribution Table](Resources/8.png)
+![Geographical Distribution Table](Resources/7.png)
 
 *Table 3: Geographical Distribution of Publications*
 
