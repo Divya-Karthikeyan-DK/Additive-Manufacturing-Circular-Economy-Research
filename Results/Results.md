@@ -56,6 +56,7 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 ### Most Prolific Authors
 
 ![Most Prolific Authors Table](Resources/4.png)
+
 *Table 1: Most prolific authors by publications and fractionalized contributions*
 
 #### Leading Contributors:
@@ -69,6 +70,7 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 ### Leading Institutions
 
 ![Top Institutions Table](Resources/5.png)
+
 *Table 2: Top institutions by number of publications*
 
 #### Institutional Powerhouses:
@@ -86,9 +88,11 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 ### Global Research Landscape
 
 ![World Map Distribution](Resources/7.png)
+
 *Figure 4: World Map Showing Geographical Distribution of Publications*
 
 ![Geographical Distribution Table](Resources/8.png)
+
 *Table 3: Geographical Distribution of Publications*
 
 #### Regional Leaders:
@@ -111,9 +115,11 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 ### Keyword Network Visualization
 
 ![VOSviewer Keyword Network](Resources/9.png)
+
 *Figure 5: Keyword network visualization using VOSviewer*
 
 ![Biblioshiny Keyword Network](Resources/10.png)
+
 *Figure 6: Keyword Co-occurrence network visualization using Biblioshiny*
 
 #### Three Main Research Clusters Identified:
@@ -139,6 +145,7 @@ The remarkable peak in 2020 can be attributed to multiple factors:
 ### Advanced Thematic Mapping
 
 ![Keyword Co-occurrence Overlay](Resources/11.png)
+
 *Figure 7: Keyword Co-occurrence Overlay Visualization*
 
 #### Interconnection Analysis:
